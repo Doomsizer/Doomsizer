@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">SkillFactory fullstack dev (Django) 2024-2025 (15 месяцев)</p>
+<p align="left">Skillfactory Fullstack-разработчик на Django 2024-2025 (15 месяцев)</p>
 
 ###
 
